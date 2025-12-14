@@ -1,0 +1,38 @@
+*** SPICE deck for cell XOR{sch} from library XorGate
+*** Created on Cmt Ara 13, 2025 23:02:04
+*** Last revised on Paz Ara 14, 2025 22:01:35
+*** Written on Paz Ara 14, 2025 22:28:57 by Electric VLSI Design System, version 9.08
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+*** SUBCIRCUIT Inverter__Inv FROM CELL Inverter:Inv{sch}
+.SUBCKT Inverter__Inv in out
+** GLOBAL gnd
+** GLOBAL vdd
+Mnmos@0 out in gnd gnd N L=0.6U W=3U
+Mpmos@0 vdd in out vdd P L=0.6U W=3U
+.ENDS Inverter__Inv
+
+.global gnd vdd
+
+*** TOP LEVEL CELL: XOR{sch}
+Mnmos@0 OUT A net@5 gnd N L=0.6U W=3U
+Mnmos@1 OUT net@48 net@6 gnd N L=0.6U W=3U
+Mnmos@2 net@5 B gnd gnd N L=0.6U W=3U
+Mnmos@3 net@6 net@41 gnd gnd N L=0.6U W=3U
+Mpmos@0 vdd A net@1 vdd P L=0.6U W=3U
+Mpmos@2 net@1 net@48 OUT vdd P L=0.6U W=3U
+Mpmos@3 vdd net@41 net@3 vdd P L=0.6U W=3U
+Mpmos@4 net@3 B OUT vdd P L=0.6U W=3U
+XInv@0 A net@41 Inverter__Inv
+XInv@1 B net@48 Inverter__Inv
+
+* Spice Code nodes in cell cell 'XOR{sch}'
+vdd vdd 0 DC 5
+va A 0 DC pwl 10n 0 20n 5 50n 5 60n 0 90n 0 100n 5 130n 5 140n 0 170n 0 180n 5
+vb B 0 DC pwl 10n 0 20n 5 100n 5 110n 0
+.tran 200n
+.include C:\Users\omery\Desktop\C5_models.txt
+* Trailer cards described in this file:
+.include C:\Users\omery\Desktop\C5_models.txt
+.END
