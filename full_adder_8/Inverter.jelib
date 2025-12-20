@@ -25,7 +25,7 @@ Eout||D5G2;|pin@2||U
 X
 
 # Cell Inv;1{lay}
-CInv;1{lay}||mocmos|1765546179077|1765568965148||DRC_last_good_drc_area_date()G1765548415480|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1765825395553
+CInv;1{lay}||mocmos|1765546179077|1765568965148||DRC_last_good_drc_area_date()G1765548415480|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1765911269062
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NMetal-1-P-Active-Con|contact@0||-6|8||5||
 NMetal-1-P-Active-Con|contact@1||6|8||5||

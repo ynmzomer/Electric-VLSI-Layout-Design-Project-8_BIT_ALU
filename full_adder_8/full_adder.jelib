@@ -44,7 +44,7 @@ ES||D5G2;|pin@8||U
 X
 
 # Cell fa;1{lay}
-Cfa;1{lay}||mocmos|1765910180413|1766078535897||DRC_last_good_drc_area_date()G1765913297679|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1766085479741
+Cfa;1{lay}||mocmos|1765910180413|1766176723126||DRC_last_good_drc_area_date()G1765913297679|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1766085479741
 IInverter:Inv;1{lay}|Inv@0||236.5|39|||D5G4;
 INorGate:NOR;1{lay}|NOR@0||240.5|-47|||D5G4;
 Ngeneric:Facet-Center|art@0||0|0||||AV
@@ -79,7 +79,6 @@ NMetal-1-Pin|pin@25||209.5|63||||
 NMetal-1-Pin|pin@31||290|5||||
 NMetal-1-Pin|pin@33||26.5|30||||
 NMetal-2-Pin|pin@34||18.5|22||||
-Ngeneric:Invisible-Pin|pin@38||-169|-31.5|||||SIM_spice_card(D5G1;)S[vdd vdd 0 DC 5 ,va A 0 DC pwl 10n 0 20n 5 50n 5 60n 0 90n 0 100n 5 130n 5 140n 0 170n 0 180n 5,vb B 0 DC pwl 10n 0 20n 5 100n 5 110n 0 ,vcin C_in 0 DC pwl 0n 0 20n 0 30n 5 60n 5 70n 0 100n 0 120n 0 130n 5 160n 5 170n 0,.tran 200n ,".include C:\\Users\\omery\\Desktop\\C5_models.txt"]
 NMetal-1-Pin|pin@39||214|-47||||
 NMetal-1-Pin|pin@40||223|-75||||
 NMetal-1-Pin|pin@41||290|-75||||
