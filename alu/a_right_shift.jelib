@@ -84,7 +84,7 @@ Ein7||D5G2;|pin@30||U
 X
 
 # Cell a_right_shift;1{lay}
-Ca_right_shift;1{lay}||mocmos|1766776792500|1767125472766||DRC_last_good_drc_area_date()G1766822426873|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1766822426873
+Ca_right_shift;1{lay}||mocmos|1766776792500|1767288004293||DRC_last_good_drc_area_date()G1766822426873|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1767254948675
 Ngeneric:Facet-Center|art@0||0|0||||AV
 Ibuf_8:buf_8;1{lay}|buf_8@0||-72.5|-112|||D5G4;
 NMetal-1-Metal-2-Con|contact@0||-201|-25||||
@@ -107,7 +107,6 @@ NMetal-1-Metal-2-Con|contact@17||-260|-70||||
 NMetal-1-Metal-2-Con|contact@18||-253.5|-228||||
 NMetal-1-Metal-2-Con|contact@19||-252.5|-79.5||||
 NMetal-2-Pin|pin@2||-252.5|-41.5||||
-Ngeneric:Invisible-Pin|pin@5||-177.5|-32.5|||||SIM_spice_card(D5G1;)S[vdd  vdd 0 DC 5,vin0 in0 0 DC pwl 10n 0 20n 5 50n 5 60n 0,vin1 in1 0 DC pwl 10n 0 20n 0 50n 0 60n 0,vin2 in2 0 DC pwl 10n 0 20n 5 50n 5 60n 0,vin3 in3 0 DC pwl 10n 0 20n 5 50n 5 60n 0,vin4 in4 0 DC pwl 10n 0 20n 0 50n 0 60n 0,vin5 in5 0 DC pwl 10n 0 20n 5 50n 5 60n 0,vin6 in6 0 DC pwl 10n 0 20n 0 50n 0 60n 0,vin7 in7 0 DC pwl 10n 0 20n 5 50n 5 60n 0,.tran 0 100ns,".include C:\\Users\\omery\\Desktop\\C5_models.txt"]
 NMetal-2-Pin|pin@6||-134.5|-41.5||||
 AMetal-1|net@19||1|S2700|contact@16||255.5|-253|buf_8@0|Y0|255.5|-241
 AMetal-1|net@20||1|S2700|contact@14||206|-253|buf_8@0|Y1|206|-242

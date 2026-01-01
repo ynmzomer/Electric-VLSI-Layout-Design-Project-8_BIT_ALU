@@ -104,7 +104,7 @@ EY||D5G2;|pin@40||U
 X
 
 # Cell mux16x1;1{lay}
-Cmux16x1;1{lay}||mocmos|1766334658609|1767125472778||DRC_last_good_drc_area_date()G1766342137708|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1766342137708
+Cmux16x1;1{lay}||mocmos|1766334658609|1767192518182||DRC_last_good_drc_area_date()G1766342137708|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1767193315211
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NMetal-1-Metal-2-Con|contact@0||-272.5|48.5||||
 NMetal-1-Metal-2-Con|contact@1||-273|19||||
@@ -210,7 +210,6 @@ NMetal-2-Pin|pin@109||275|-1075||||
 NMetal-1-Pin|pin@110||275.5|-1440.5||||
 NMetal-1-Pin|pin@111||-157.5|-1440.5||||
 NMetal-1-Pin|pin@112||-157.5|-1478||||
-Ngeneric:Invisible-Pin|pin@115||362.5|-1197.5|||||SIM_spice_card(D5G1;)S[vdd vdd 0 DC 5 ,vi0 I0 0 DC pwl 10n 0 20n 0 21n 5 60n 5 90n 5 91n 0 130n 0 131n 5 170n 5 ,vi1 I1 0 DC pwl 10n 0 11n 5 100n 5 101n 0 ,vi2 I2 0 DC pwl 10n 5 20n 5 21n 0 50n 0 51n 5 120n 5 121n 0,vi3 I3 0 DC pwl 10n 0 50n 0 51n 5 60n 5 61n 0 100n 0 101n 5 150n 5 151n 0,vi4 I4 0 DC pwl 10n 0 70n 0 71n 5 ,vi5 I5 0 DC pwl 10n 0 11n 5 100n 5 ,vi6 I6 0 DC pwl 10n 5 40n 5 41n 0 100n 0 200n 0,vi7 I7 0 DC pwl 10n 5 50n 0 51n 5 160n 5 199n 5 200n 0,vi8 I8 0 DC pwl 10n 5 50n 5 200n 5  ,vi9 I9 0 DC pwl 10n 0 11n 5 150n 5 151n 0 200n 0 ,vi10 I10 0 DC pwl 10n 5 100n 5 101n 0 180n 0 181n 5,vi11 I11 0 DC pwl 10n 0 48n 0 49n 5 130n 5 131n 0 180n 0,vi12 I12 0 DC pwl 10n 5 25n 5 26n 0 100n 0 150n 0  ,vi13 I13 0 DC pwl 10n 0 80n 0 81n 5 200n 5 ,vi14 I14 0 DC pwl 10n 5 100n 5 101n 0 200n 0,vi15 I15 0 DC pwl 10n 5 150n 5 151n 0 200n 0,vs0 S0 0 PWL(0n 0 12n 0 13n 5 25n 5 26n 0 39n 0 40n 5 52n 5 53n 0 65n 0 66n 5 78n 5 79n 0 91n 0 92n 5 104n 5 105n 0 117n 0 118n 5 130n 5 131n 0 143n 0 144n 5 156n 5 157n 0 169n 0 170n 5 182n 5 183n 0),VS1 S1 0 PULSE(0 5 0 1n 1n 20n 40n),VS2 S2 0 PULSE(0 5 0 1n 1n 40n 80n),VS3 S3 0 PULSE(0 5 0 1n 1n 80n 160n),.tran 200n ,".include C:\\Users\\omery\\Desktop\\C5_models.txt"]
 AMetal-1|net@5||1|S900|mux4x1@2|gnd|-158|-744.5|pin@5||-158|-753
 AMetal-1|net@7||1|S900|mux4x1@3|gnd|-157.5|-1060|pin@7||-157.5|-1075
 AMetal-1|net@31||1|S0|mux4x1@1|I0|-193|-422.5|contact@4||-276|-422.5

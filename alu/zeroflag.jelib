@@ -58,7 +58,7 @@ Eout||D5G2;|pin@16||U
 X
 
 # Cell zeroflag;1{lay}
-Czeroflag;1{lay}||mocmos|1766952092943|1767040360655||DRC_last_good_drc_area_date()G1767032539848|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1767036168899
+Czeroflag;1{lay}||mocmos|1766952092943|1767040360655||DRC_last_good_drc_area_date()G1767032539848|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1767254948675
 IInverter:Inv;1{lay}|Inv@0||352.5|-82.5|||D5G4;
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NMetal-1-Metal-2-Con|contact@0||37|-139.5||||

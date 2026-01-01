@@ -118,7 +118,7 @@ EY7||D5G2;|pin@46||U
 X
 
 # Cell or_8;1{lay}
-Cor_8;1{lay}||mocmos|1766593636969|1767125472778||DRC_last_good_drc_area_date()G1766595327444|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1766595327444
+Cor_8;1{lay}||mocmos|1766593636969|1767208644661||DRC_last_good_drc_area_date()G1766595327444|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1767210219827
 I8Bit_Inv:8Bit_Inv;1{lay}|8Bit_Inv@0||47.5|150.5|RR||D5G4;
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NMetal-1-Metal-2-Con|contact@0||-225|1.5||||
@@ -160,7 +160,6 @@ NMetal-1-Pin|pin@12||208|92.5||||
 NMetal-2-Pin|pin@13||231|77.5||||
 NMetal-1-Pin|pin@14||240|22||||
 NMetal-1-Pin|pin@16||240|176.5||||
-Ngeneric:Invisible-Pin|pin@17||-251.5|-8|||||SIM_spice_card(D5G1;)S[vdd vdd 0 DC 5,va0 A0 0 DC pwl 10n 0 20n 5 50n 5 60n 0 90n 0 100n 5 130n 5 140n 0 170n 0 180n 5,vb0 B0 0 DC pwl 10n 0 20n 5 100n 5 110n 0,va1 A1 0 DC pwl 10n 0 20n 5 50n 5 60n 0 90n 0 100n 5 130n 5 140n 0 170n 0 180n 5,vb1 B1 0 DC pwl 10n 0 20n 5 100n 5 110n 0,va2 A2 0 DC pwl 10n 0 20n 5 50n 5 60n 0 90n 0 100n 5 130n 5 140n 0 170n 0 180n 5,vb2 B2 0 DC pwl 10n 0 20n 5 100n 5 110n 0,va3 A3 0 DC pwl 10n 0 20n 5 50n 5 60n 0 90n 0 100n 5 130n 5 140n 0 170n 0 180n 5,vb3 B3 0 DC pwl 10n 0 20n 5 100n 5 110n 0,va4 A4 0 DC pwl 10n 0 20n 5 50n 5 60n 0 90n 0 100n 5 130n 5 140n 0 170n 0 180n 5,vb4 B4 0 DC pwl 10n 0 20n 5 100n 5 110n 0,va5 A5 0 DC pwl 10n 0 20n 5 50n 5 60n 0 90n 0 100n 5 130n 5 140n 0 170n 0 180n 5,vb5 B5 0 DC pwl 10n 0 20n 5 100n 5 110n 0,va6 A6 0 DC pwl 10n 0 20n 5 50n 5 60n 0 90n 0 100n 5 130n 5 140n 0 170n 0 180n 5,vb6 B6 0 DC pwl 10n 0 20n 5 100n 5 110n 0,va7 A7 0 DC pwl 10n 0 20n 5 50n 5 60n 0 90n 0 100n 5 130n 5 140n 0 170n 0 180n 5,vb7 B7 0 DC pwl 10n 0 20n 5 100n 5 110n 0,.tran 200n,".include C:\\Users\\omery\\Desktop\\C5_models.txt"]
 AMetal-1|net@0||1|S0|8Bit_Inv@0|A0|-172|98.5|pin@0||-177|98.5
 AMetal-1|net@1||1|S2700|nor_8@1|Y0|-177|87|pin@0||-177|98.5
 AMetal-1|net@2||1|S1800|8Bit_Inv@0|A1|-121.5|98.5|pin@1||-120.5|98.5

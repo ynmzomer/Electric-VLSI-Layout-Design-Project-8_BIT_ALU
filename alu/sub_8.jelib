@@ -122,7 +122,7 @@ EY7||D5G2;|pin@48||U
 X
 
 # Cell sub_8;1{lay}
-Csub_8;1{lay}||mocmos|1766861844019|1767033548682||DRC_last_good_drc_area_date()G1766865134063|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1766865134063
+Csub_8;1{lay}||mocmos|1766861844019|1767033548682||DRC_last_good_drc_area_date()G1766865134063|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1767195982421
 I8Bit_Inv:8Bit_Inv;1{lay}|8Bit_Inv@0||-450|580.5|||D5G4;
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NMetal-1-Metal-2-Con|contact@1||-176|493||||

@@ -124,7 +124,7 @@ ES7||D5G2;|pin@50||U
 X
 
 # Cell fa_8;1{lay}
-Cfa_8;1{lay}||mocmos|1766079844588|1767125472774||DRC_last_good_drc_area_date()G1766862189891|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1766862189891
+Cfa_8;1{lay}||mocmos|1766079844588|1767125472774||DRC_last_good_drc_area_date()G1766862189891|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1767193923116
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NMetal-1-Metal-2-Con|contact@2||42.5|-626||||
 NMetal-1-Metal-2-Con|contact@3||24|-626.5||||

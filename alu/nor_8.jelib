@@ -116,7 +116,7 @@ EY7||D5G2;|pin@46||U
 X
 
 # Cell nor_8;1{lay}
-Cnor_8;1{lay}||mocmos|1766434004207|1766591886193||DRC_last_good_drc_area_date()G1766591722971|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1766591722971
+Cnor_8;1{lay}||mocmos|1766434004207|1766591886193||DRC_last_good_drc_area_date()G1766591722971|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1767254948675
 INorGate:NOR;1{lay}|NOR@0||-38.5|3|||D5G4;
 INorGate:NOR;1{lay}|NOR@1||17.5|3|||D5G4;
 INorGate:NOR;1{lay}|NOR@2||72|2.5|||D5G4;

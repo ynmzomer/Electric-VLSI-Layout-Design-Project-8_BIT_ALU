@@ -84,7 +84,7 @@ EY7||D5G2;|pin@30||U
 X
 
 # Cell buf_8;1{lay}
-Cbuf_8;1{lay}||mocmos|1766780489379|1767125472770||DRC_last_good_drc_area_date()G1766781193987|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1766781193987
+Cbuf_8;1{lay}||mocmos|1766780489379|1767125472770||DRC_last_good_drc_area_date()G1766781193987|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1767211000358
 I8Bit_Inv:8Bit_Inv;1{lay}|8Bit_Inv@0||23.5|2.5|||D5G4;
 I8Bit_Inv:8Bit_Inv;1{lay}|8Bit_Inv@1||67.5|-90|||D5G4;
 Ngeneric:Facet-Center|art@0||0|0||||AV

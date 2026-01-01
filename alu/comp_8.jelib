@@ -102,7 +102,7 @@ Els||D5G2;|pin@36||U
 X
 
 # Cell comp_8;1{lay}
-Ccomp_8;1{lay}||mocmos|1767035691197|1767125472773||DRC_last_good_drc_area_date()G1767040223628|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1767040223628
+Ccomp_8;1{lay}||mocmos|1767035691197|1767125472773||DRC_last_good_drc_area_date()G1767040223628|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1767254948675
 IInverter:Inv;1{lay}|Inv@0||433|-454.5|||D5G4;
 INorGate:NOR;1{lay}|NOR@0||-436.5|-666.5|||D5G4;
 Ngeneric:Facet-Center|art@0||0|0||||AV
