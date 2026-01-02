@@ -1,7 +1,7 @@
 
 ---
 
-# 🧮 8-Bit ALU – Physical VLSI Design Project
+# 🧮 8-Bit ALU – Physical VLSI Design Project (Transistor level design)
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Technology](https://img.shields.io/badge/Technology-CMOS-blue)
@@ -148,21 +148,27 @@ The work provides a strong foundation for future enhancements such as full multi
 
 
 ---
-## FULL ADDER
+## 8 bit FULL ADDER
 
-
+<img width="1014" height="773" alt="image" src="https://github.com/user-attachments/assets/28abd150-3cab-494a-9c56-6c8eea0fe156" />
 ---
 
-## MUX 2x1
+## 8-bit XOR
+<img width="1852" height="690" alt="image" src="https://github.com/user-attachments/assets/6759804d-5582-4428-bf3a-d6abb9406f27" />
 
+--
 
-
----
-
-## 8-bit designs
-
-
+## 8-bit Comparator
+<img width="735" height="817" alt="image" src="https://github.com/user-attachments/assets/016b97c0-0282-416c-b298-b246476a7a43" />
 
 
 --
+
+## MUX 2x1
+<img width="1212" height="770" alt="image" src="https://github.com/user-attachments/assets/cd5ceaf8-aa4a-413c-a0f9-a8a911b39abc" />
+
+
+---
+
+
 
